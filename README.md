@@ -57,7 +57,7 @@ Se puede probar la web tanto clonando el repositorio como descargando el archivo
 
 <p align="center" >
  
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/52149e7c-8b79-45ed-939b-de5dbb1c1c8b" width="775" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/62ce78d2-e9c5-4284-b83c-0569108e005c" width="775" />
  
 </p>
 
@@ -66,13 +66,13 @@ Se puede probar la web tanto clonando el repositorio como descargando el archivo
   
   <p align="center" >
   
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/7bb93ae9-1137-4dfc-b4c9-a8d539eeb62f" width="775" />  
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/6dd421ca-6936-4577-ac9f-5a39573e65b2" width="775" />  
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/46c164f8-f1a4-4ae0-aa52-d7888a15ec4c" width="775" />  
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/4f3f6c5c-8cb3-47fb-b5a9-cf64d2180861" width="775" />  
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/2003d7f0-1635-4134-89c9-3230c4215609" width="775" />  
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/4bdf3617-3b90-4da0-9d0c-a3fb2b162e82" width="775" />  
   
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/5ce55439-20bd-4470-9921-7ddc0bba7d0f" width="270" />
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/49d03b09-1411-4d48-9ad0-9bfa2cca6be4" width="270" />
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/0c07489d-5846-4ea9-8443-93cfcdd3ebb6" width="270" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/0306bfa1-762e-4508-96d9-b047ddd88ae7" width="270" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/aec082a2-d32a-400a-8368-0bf2f6efd1e5" width="270" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej2-Bobtails/assets/126791645/4c69fb20-916a-436a-8794-e7e8353e4876" width="270" />
   
 </p>
 
