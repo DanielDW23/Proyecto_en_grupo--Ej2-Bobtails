@@ -62,7 +62,7 @@ Se puede probar la web tanto clonando el repositorio como descargando el archivo
 </p>
 
 
-  ### WEB
+  ### WEB 
   
   <p align="center" >
   
